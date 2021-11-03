@@ -4265,6 +4265,11 @@ button.btn--pill {
     padding-bottom: var(--vspace-3);
     font-size: var(--text-size);
   }
+  .folio-item {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .s-cta .section-desc {
     font-size: var(--text-lg);
     line-height: var(--vspace-1);
