@@ -4265,7 +4265,7 @@ button.btn--pill {
     padding-bottom: var(--vspace-3);
     font-size: var(--text-size);
   }
-  .folio-item {
+  .folio-item__thumb {
     align-items: center;
     margin-left: auto;
     margin-right: auto;
